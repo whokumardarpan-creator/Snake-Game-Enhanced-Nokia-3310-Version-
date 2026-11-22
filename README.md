@@ -43,6 +43,18 @@ A feature-rich Nokia-inspired Snake Game developed in C, featuring dynamic mazes
 - Platform: Windows Console
 - Libraries: `stdio.h`, `stdlib.h`, `conio.h`, `windows.h`, `time.h`, `string.h`
 
+## Concepts Used
+
+- Functions and function parameters
+- Return values
+- Structures
+- Arrays, including a two-dimensional maze array
+- Pointers
+- Loops and conditional statements
+- Random number generation
+- File handling for high-score storage
+Recursion is not used in the current implementation.
+
 ## ⚙️ Compilation and Execution
 
 Compile using GCC:
