@@ -1,3 +1,5 @@
+
+![image of ](1.png)
 # 🐍 Enhanced Nokia 3310 Snake Game
 
 ## 👥 Group Members
