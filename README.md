@@ -1,5 +1,4 @@
 
-![image of ](1.png)
 # 🐍 Enhanced Nokia 3310 Snake Game
 
 ## 👥 Group Members
@@ -74,5 +73,7 @@ snake.exe
 **Note:** This project is designed for Windows Console.
 
 ---
+
+![image of ](1.png)
 
 **Developed as a Programming Fundamentals Group Project.**
