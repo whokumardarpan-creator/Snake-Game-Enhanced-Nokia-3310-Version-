@@ -74,6 +74,4 @@ snake.exe
 
 ---
 
-![image of ](1.png)
-
 **Developed as a Programming Fundamentals Group Project.**
